@@ -39,6 +39,7 @@ A frontend clone of Amazon's landing page built using HTML5 and CSS3. This proje
 Jaid Mulla
 
 GitHub:- https://github.com/jaidmulla33-tech
+
 Linkedin:- https://www.linkedin.com/in/jaid-mulla-449258333?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ## 📄 Disclaimer
