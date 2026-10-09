@@ -34,7 +34,7 @@ A frontend clone of Amazon's landing page built using HTML5 and CSS3. This proje
 
 2. Open "index.html" in your browser.
 
-## 👨‍💻 Author
+##  Author
 
 Jaid Mulla
 
